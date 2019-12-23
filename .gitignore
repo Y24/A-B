@@ -1,4 +1,6 @@
-bochsout.txt
-boootimage-fd
+./bochsout.txt
+./boootimage-fd
 boot/*.o
+boot/setup
+boot/bootsect
 boot/System.map
