@@ -1,6 +1,6 @@
 include Makefile.header
 BOCHS=bochs
-LDFLAGS	+= -Ttext 0 -e startup_32
+LDFLAGS	+= -Ttext 0
 CFLAGS	+= -Iinclude
 CPP	+= -Iinclude
 all: Image
