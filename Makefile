@@ -20,4 +20,5 @@ start:
 	@${BOCHS} -q -f tools/bochs/bochsrc-fd.bxrc
 clean:
 	@rm -f bootimage-fd
+	@rm -f bochsout.txt
 	@make clean -C boot
