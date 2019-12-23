@@ -1,5 +1,5 @@
-./bochsout.txt
-./boootimage-fd
+bochsout.txt
+bootimage-fd
 boot/*.o
 boot/setup
 boot/bootsect
